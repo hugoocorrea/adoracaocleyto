@@ -1,0 +1,43 @@
+body{
+    background-image: url('https://i.imgur.com/GCVID99.png')
+}
+
+h1{
+    color:white;
+}
+
+h2{
+    position:center;
+    color:white;
+}
+h3{
+    color:white;
+}
+
+.imgg{
+    width: 50px;
+    height: 50px;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+}
+
+li{
+    font-size: 20px;
+    font-weight: bold;
+    color:white
+}
+
+.motivos{
+    color:red;
+    border: 5px;
+    border-color:black   
+}
+
+.form{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
